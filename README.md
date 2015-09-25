@@ -13,4 +13,3 @@ Simple example:
 ```
 
 See the docstring comments in the code and the [Sailthru API docs](http://docs.sailthru.com/api) for more details.
-
